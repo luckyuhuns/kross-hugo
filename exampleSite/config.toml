@@ -1,4 +1,4 @@
-baseURL = "http://luckyuhuns.netlify.com"
+baseURL = "https://luckyuhuns.netlify.app"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
